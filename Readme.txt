@@ -1,7 +1,1 @@
-hello world!
-
-hello Git!
-
-hello everybody!
-
-hello admin!
+hello Github!
